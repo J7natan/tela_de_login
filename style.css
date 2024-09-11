@@ -11,6 +11,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: url(img/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 .login_container{
@@ -37,7 +41,7 @@ input[type="password"]{
     text-align: center;
 }
 
-.login_container input[type="submit"]: {
+.login_container input[type="submit"]: {   
 background-color: grey;
 color: white;
 border: none;
